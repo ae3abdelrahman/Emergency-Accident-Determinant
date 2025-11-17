@@ -6,3 +6,5 @@ If the incident is classified as an emergency, the system automatically triggers
 This solution transforms incident management by offering faster decision-making, higher accuracy, reduced operational load, and a safer, more efficient response to real-world events.
 
 Project Link: https://app.opus.com/app/workflow/share/0cd6e97c-abf3-4a41-a09e-bca663674a6c
+
+<img width="1365" height="456" alt="Screenshot 2025-11-17 230348" src="https://github.com/user-attachments/assets/9b290a6e-b4d5-479f-8329-59cfd75217e5" />
