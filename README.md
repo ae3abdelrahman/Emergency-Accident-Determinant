@@ -4,4 +4,5 @@ This project is an advanced automation system designed to determine whether an i
 The process begins when one of the parties contacts the system. Multiple AI agents collaboratively evaluate the call using voice analysis, contextual understanding, and incident-classification models. These agents detect signs of emergencies such as injuries, hazardous conditions, or urgent medical needs and determine whether immediate human intervention or first-aid response is required.
 If the incident is classified as an emergency, the system automatically triggers escalation protocols, alerts human operators, and prepares essential data for rapid response teams. If no emergency is detected, the platform guides the involved parties to complete the incident report online through a streamlined, automated workflow eliminating unnecessary delays and manual assessments.
 This solution transforms incident management by offering faster decision-making, higher accuracy, reduced operational load, and a safer, more efficient response to real-world events.
-<img width="7501" height="262" alt="image" src="https://github.com/user-attachments/assets/d54a39f2-6326-4c40-bb9c-f4adae09369f" />
+
+Project Link: https://app.opus.com/app/workflow/share/0cd6e97c-abf3-4a41-a09e-bca663674a6c
